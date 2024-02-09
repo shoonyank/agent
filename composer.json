@@ -1,0 +1,18 @@
+{
+    "name": "shoonyank/agent",
+    "description": "This package will help you implement php mobile detect(https://mobiledetect.net/) into laravel blade via easy directives.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "shoonyank\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ayush Tiwari"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
